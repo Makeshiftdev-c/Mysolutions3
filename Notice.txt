@@ -1,0 +1,8 @@
+/*********************************************************
+ * From Introduction to Java Programming and             *
+ * Data Structures, Comprehensive Version,               *
+ * Global Edition                                        *
+ * By Y. Daniel Liang                                    *
+ * Copyright (c) 2019, Pearson Education Limited 2019    *
+ * All rights reserved.                                  *
+ *********************************************************/
