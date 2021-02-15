@@ -1,4 +1,6 @@
-<div align="center">Write a program that displays the result of</div>
+<div align="center">Write a program that displays the result of</div>  
+<br />
 <div align="center">
-![formula](https://render.githubusercontent.com/render/math?math=\color{red}\Huge%5Cfrac%7B7.5%5Ctimes6.5-4.5%5Ctimes3%7D%7B47.5-5.5%7D)
+<img src="https://render.githubusercontent.com/render/math?math=\color{red}\Huge\frac{7.5\times6.5-4.5\times3}{47.5-5.5}" alt="formula" />
 </div>
+
