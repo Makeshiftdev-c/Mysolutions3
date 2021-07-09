@@ -1,6 +1,6 @@
 Given an airplane's acceleration **a** and take-off speed **v**, you can compute the minimum runway length needed for an airplane to take off using the following formula:  
   
-<img alt="formula" src="https://render.githubusercontent.com/render/math?math=\large%20\color{red}{length%20=%20\frac{%20v^{2}%20}{2a}}" />  
+<img alt="formula" src="https://render.githubusercontent.com/render/math?math=\huge%20\color{red}{length%20=%20\frac{%20v^{2}%20}{2a}}" />  
   
 Write a program that prompts the user to enter **v** in meters/second (m/s) and the acceleration **a** in meters/second squared (m/s<sup>2</sup>), then, displays the minimum runway length. Here is a sample run:  
   
