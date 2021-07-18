@@ -1,6 +1,6 @@
 The two roots of a quadratic equation <img alt="formula" src="https://render.githubusercontent.com/render/math?math=\large%20\color{red}{ax^{2}%20%2B%20bx%20%2B%20c%20=%200}" /> can be obtained using the following formula:  
   
-<img alt="formula" src="https://render.githubusercontent.com/render/math?math=\huge%20\color{red}{r_{1}%20=%20\frac{-b%20%2B%20\sqrt{%20b^{2}%20-%204ac%20}}{2a}}" />   and   <img alt="formula" src="https://render.githubusercontent.com/render/math?math=\huge%20\color{red}{r_{2}%20=%20\frac{-b%20-%20\sqrt{%20b^{2}%20-%204ac%20}}{2a}}" />  
+<img alt="formula" src="https://render.githubusercontent.com/render/math?math=\huge%20\color{red}{r_{1}%20=%20\frac{-b%20%2B%20\sqrt{%20b^{2}%20-%204ac%20}}{2a}}" />   and    <img alt="formula" src="https://render.githubusercontent.com/render/math?math=\huge%20\color{red}{r_{2}%20=%20\frac{-b%20-%20\sqrt{%20b^{2}%20-%204ac%20}}{2a}}" />  
   
 <img alt="formula" src="https://render.githubusercontent.com/render/math?math=\large%20\color{red}{b^{2}%20-%204ac}" /> is called the discriminant of the quadratic equation. If it is positive, the equation has two real roots. If it is zero, the equation has one root. If it is negative, the equation has no real roots.  
   
