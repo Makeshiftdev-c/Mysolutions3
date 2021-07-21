@@ -13,7 +13,7 @@ public class QuadraticCalculator {
 
 		if (discriminant < 0.0) {
 			System.out.println("no real roots");
-			System.exit(0);
+			System.exit(1);
 		}
 
 		double root1 = (-b + Math.pow(discriminant, 0.5)) / (2 * a);
